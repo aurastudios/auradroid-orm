@@ -1,0 +1,44 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.aurastudiosdc.auradroid</groupId>
+    <artifactId>auradroid-orm</artifactId>
+    <packaging>jar</packaging>
+    <description>An ORM framework for Android</description>
+    <version>0.1-SNAPSHOT</version>
+    <url>http://www.aurastudiosdc.com/auradroid/orm</url>
+
+
+    <scm>
+        <url>https://github.com/aurastudios/auradroid-orm</url>
+        <connection>
+            scm:git:ssh://git@github.com/aurastudios/auradroid-orm.git
+        </connection>
+        <developerConnection>
+            scm:git:ssh://git@github.com/aurastudios/auradroid-orm.git
+        </developerConnection>
+    </scm>
+
+    <developers>
+        <developer>
+            <id>toms</id>
+            <name>Jamel Toms</name>
+            <url>http://www.aurastudiosdc.com/about</url>
+            <organization>Aura Studios</organization>
+            <organizationUrl>http://www.aurastudiosdc.com</organizationUrl>
+            <roles>
+                <role>developer</role>
+                <role>engineer</role>
+                <role>director</role>
+            </roles>
+            <timezone>-5</timezone>
+        </developer>
+    </developers>
+
+    <dependencies>
+
+    </dependencies>
+
+</project>
